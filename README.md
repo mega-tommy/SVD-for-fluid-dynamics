@@ -7,5 +7,5 @@ In the exercise one is given a data set for fluid flow past a cylinder. It is as
 
 ## Featured results
 <p align="center">
-  <img src="original_flow.gif" alt="animated" />
+  <img src="original_flow.gif" alt="animated">
 </p>
