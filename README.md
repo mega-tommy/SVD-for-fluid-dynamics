@@ -4,14 +4,10 @@ This repository contains a python script with a solution to Exercise 1-7. from <
 
 In the exercise one is given a data set for fluid flow past a cylinder. It is asked to analyze the data by applying Singular Value Decomposition (SVD) technique.
 
-<style>
-h1 {
-  text-align: center;
-}
-</style>
-
 ## Featured results
-<h1>Original fluid flow</h1>
+<h1 align="center">
+  Original fluid flow
+</h1>
 <p align="center">
   <img src="original_flow.gif" alt="animated">
 </p>
