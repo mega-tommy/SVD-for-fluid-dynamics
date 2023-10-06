@@ -5,9 +5,16 @@ This repository contains a python script with a solution to Exercise 1-7. from <
 In the exercise one is given a data set for fluid flow past a cylinder. It is asked to analyze the data by applying Singular Value Decomposition (SVD) technique.
 
 ## Featured results
-<h3 align="center">
+<h4 align="center">
   Original fluid flow
-</h3>
+</h4>
 <p align="center">
   <img src="original_flow.gif" alt="animated">
 </p>
+
+<h4 align="center"></h4>
+<p align="center">
+  <img src="sv_spectrum_zoomed.png">
+</p>
+
+
