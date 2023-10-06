@@ -12,9 +12,9 @@ In the exercise one is given a data set for fluid flow past a cylinder. It is as
   <img src="original_flow.gif" alt="animated">
 </p>
 
-<h4 align="center">
-  Singular Value Spectrum
-</h4>
+<h4 align="center"></h4>
 <p align="center">
   <img src="sv_spectrum_zoomed.png">
 </p>
+
+
