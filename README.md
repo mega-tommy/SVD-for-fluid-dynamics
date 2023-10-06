@@ -17,4 +17,23 @@ In the exercise one is given a data set for fluid flow past a cylinder. It is as
   <img src="sv_spectrum_zoomed.png">
 </p>
 
+<h4 align="center">
+  Reconstructed fluid flow for truncation value <i>r</i> = 2
+</h4>
+<p align="center">
+  <img src="reconstructed_flow_r_2.gif">
+</p>
 
+<h4 align="center">
+  Reconstructed fluid flow for truncation value <i>r</i> = 6
+</h4>
+<p align="center">
+  <img src="reconstructed_flow_r_6.gif">
+</p>
+
+<h4 align="center">
+  Reconstructed fluid flow for truncation value <i>r</i> = 9
+</h4>
+<p align="center">
+  <img src="reconstructed_flow_r_9.gif">
+</p>
